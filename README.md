@@ -1,0 +1,2 @@
+# golock
+distributed lock infrastructure
