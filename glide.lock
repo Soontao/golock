@@ -1,0 +1,14 @@
+hash: 1ce6acc2a3ca8b19bf8c3874f8b9c0d9bae395451d6dff013b33938f736f649d
+updated: 2018-07-24T22:47:58.285321183+08:00
+imports:
+- name: github.com/eapache/queue
+  version: 44cc805cf13205b55f69e14bcb69867d1ae92f98
+- name: github.com/go-redis/redis
+  version: 480db94d33e6088e08d628833b6c0705451d24bb
+- name: github.com/gorilla/websocket
+  version: ea4d1f681babbce9545c9c5f3d5194a789c89f5b
+- name: github.com/kataras/iris
+  version: eba6adbd78bb547b220f7fe7fbda331532134e87
+- name: github.com/tidwall/buntdb
+  version: 2da7c106683f522198cdf55ed8db42b374de50d7
+testImports: []

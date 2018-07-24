@@ -1,2 +1,3 @@
 # golock
-distributed lock infrastructure
+
+General distributed lock infrastructure.
